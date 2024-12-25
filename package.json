@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.5",
+    "mongoose": "^8.9.2",
     "normalize-url": "^5.0.0"
   },
   "devDependencies": {
